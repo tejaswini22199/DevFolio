@@ -1,0 +1,23 @@
+nav{
+  background-color: black;
+  height:100px;
+  text-align: center;
+}
+nav a 
+{
+  color:white;
+}
+ul{
+  list-style:None;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+*
+{
+  margin:0;
+}
+nav ul{
+  padding-top:30px;
+}
