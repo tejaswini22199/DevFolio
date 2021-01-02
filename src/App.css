@@ -43,3 +43,40 @@ nav ul{
   align-items: center;
   justify-content: center;
 }
+.devbar input
+{
+  text-align: center;
+  margin:10px;
+  width:50%;
+  margin-left: 25%;
+}
+.inputs
+{
+    display: inline;
+}
+.tagc
+{
+  margin:5px;
+}
+.nav-foot
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color:white;
+}
+.nav-foot img{
+    width:200px;
+}
+.atags a i
+{
+  font-size:50px;
+  margin:2px;
+  height:50px;
+}
+.atags a i:hover
+{
+ color:white;
+}
