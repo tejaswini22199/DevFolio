@@ -21,3 +21,25 @@ ul{
 nav ul{
   padding-top:30px;
 }
+.btnC
+{
+    width:150px;
+    height: 50px;
+    border-radius: 40px;
+    background: #54a0ff;
+    border-color:#54a0ff;
+    /* //background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(28,110,91,1) 100%); */
+    color:white;
+    font-weight: 100;
+}
+.image
+{
+  width:50%;
+}
+.blogd
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
