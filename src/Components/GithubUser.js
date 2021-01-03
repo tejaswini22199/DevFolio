@@ -7,20 +7,22 @@ const GithubUser = ({user}) => {
     }
     var hire=user.hireable;
     return (
+        <center>
         <div className="gituser">
             <h3>{user.name}</h3>
-            <img className="imageG" src={user.avatar_url} alt="NA"></img>
-            <span className="bio">BIO:{user.bio}</span>
+            <img className="imageG" src={user.avatar_url} alt="No User Selected"></img>
+            <span className="bio">BIO: {user.bio}</span>
 
-            <ul className="followers">
-                <li>Followers:{user.followers}</li>
-                <li>Following:{user.following}</li>
-            </ul>
+            <ol type="circle" className="followers">
+                <li>Followers: {user.followers}</li>
+                <li>Following: {user.following}</li>
+            </ol>
           
             <span><i class="fas fa-building"></i>{user.company}</span>
-            <a href={user.url}><button className="btnC">ViewOnGithub</button></a>
+            <a href={user.html_url}><button className="btnC">View On Github</button></a>
             <p>{hire?<h1>Looking for Hiring Opportunities</h1>:<p></p>}</p>
         </div>
+        </center>
     )
 }
 
