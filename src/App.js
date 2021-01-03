@@ -11,8 +11,8 @@ function App() {
      <nav>
        <ul>
          <li><Link to="/">Home</Link></li>
-         <li><Link to="/Competitivecoding">Competitivecoding</Link></li>
-         <li><Link to="/OpenSource">OpenSource</Link></li>
+         <li><Link to="/Competitivecoding">Competitive Coding</Link></li>
+         <li><Link to="/OpenSource">Open Source</Link></li>
          <li><Link to="/Blogg" >Blogs</Link></li>
        </ul>
       </nav>

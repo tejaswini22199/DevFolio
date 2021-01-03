@@ -7,7 +7,7 @@ nav a
 {
   color:white;
 }
-ul{
+nav ul{
   list-style:None;
   display: flex;
   flex-direction: row;
@@ -106,4 +106,7 @@ nav ul{
   width:50%;
   border:1px solid rgb(78, 189, 223);
   background-color: #54a0ff;
+}
+html{
+  background-image: url('./images/Trianglify-2.9s-1084px.png') !important;
 }
