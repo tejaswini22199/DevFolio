@@ -1,4 +1,4 @@
-nav{
+/* nav{
   background-color: black;
   height:100px;
   text-align: center;
@@ -6,8 +6,8 @@ nav{
 nav a 
 {
   color:white;
-}
-nav ul{
+} */
+ul{
   list-style:None;
   display: flex;
   flex-direction: row;
@@ -95,7 +95,13 @@ nav ul{
   display: flex;
   flex-direction: column;
   align-items: center;
+  border-style: dashed;
+  width: fit-content;
   justify-content: center;
+  padding: 1%;
+  border-radius: 10%;
+  border-color: blueviolet;
+  border-width: 5%;
 }
 .imageG{
   width:200px;
@@ -106,7 +112,4 @@ nav ul{
   width:50%;
   border:1px solid rgb(78, 189, 223);
   background-color: #54a0ff;
-}
-html{
-  background-image: url('./images/Trianglify-2.9s-1084px.png') !important;
 }

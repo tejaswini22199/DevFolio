@@ -3,7 +3,9 @@ import React from 'react'
 const Loader = () => {
     return (
         <div>
-            <h1>Please wait until data is fetched</h1>
+            <center>
+                <h2>Please wait until data is fetched</h2>
+            </center>
         </div>
     )
 }
