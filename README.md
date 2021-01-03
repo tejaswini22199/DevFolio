@@ -1,5 +1,5 @@
 # Description
-Devfolio is a website where a user's Programming(Competetive coding), Open Source Contributions and technical blogs can be viewed. It can be helpful for recruiters when they have the users usernames and they can check if the person suits their need or not.
+Devprofile is a website where a user's Programming(Competetive coding), Open Source Contributions and technical blogs can be viewed. It can be helpful for recruiters when they have the users usernames and they can check if the person suits their need or not.
 ## Some of the Screenshots of the project
 ![homepage](https://user-images.githubusercontent.com/43006347/103473118-f5524f00-4dba-11eb-8893-bbe73de046ac.JPG)
 ![blogs](https://user-images.githubusercontent.com/43006347/103473119-f6837c00-4dba-11eb-8c13-4b5eb48d475e.JPG)
