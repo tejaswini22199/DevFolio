@@ -19,7 +19,7 @@ Devprofile is a website where a user's Programming(Competetive coding), Open Sou
 ## Inspiration
 This project is created in NewYearNewHacks Hacakathon by MLH
 ##
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4a140911-b337-48c8-9dc9-35eef41c0b49/deploy-status)](https://app.netlify.com/sites/devprofilebytejaswini/deploys)
 
 # Getting Started with Create React App
 
