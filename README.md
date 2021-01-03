@@ -1,3 +1,25 @@
+# Description
+Devprofile is a website where a user's Programming(Competetive coding), Open Source Contributions and technical blogs can be viewed. It can be helpful for recruiters when they have the users usernames and they can check if the person suits their need or not.
+## Some of the Screenshots of the project
+![homepage](https://user-images.githubusercontent.com/43006347/103473118-f5524f00-4dba-11eb-8893-bbe73de046ac.JPG)
+![blogs](https://user-images.githubusercontent.com/43006347/103473119-f6837c00-4dba-11eb-8c13-4b5eb48d475e.JPG)
+![blogs2](https://user-images.githubusercontent.com/43006347/103473120-f71c1280-4dba-11eb-826f-eb5b65090244.JPG)
+![cp](https://user-images.githubusercontent.com/43006347/103473121-f71c1280-4dba-11eb-9ca8-fa2e5245774f.JPG)
+
+## Resources that we used
+#### APIs
+* Codeforces API:  https://codeforces.com/apiHelp/methods
+* Github Rest API: https://docs.github.com/en/free-pro-team@latest/rest
+* Dev.to API: https://docs.forem.com/api/
+#### Tools
+* React 
+* JS,HTML,CSS,BOOTSTRAP
+* Postman for testing
+## Inspiration
+This project is created in NewYearNewHacks Hacakathon by MLH
+##
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
