@@ -3,6 +3,7 @@ import {useState,useEffect} from 'react';
 import Searchbar from './Searchbar';
 import axios from 'axios';
 import GithubUser from './GithubUser';
+import UserContrib from './UserContrib';
 const OpenSource = () => {
     const [user,setUser]=useState('');
     const [query,setQuery]=useState('');
@@ -21,6 +22,7 @@ const OpenSource = () => {
         <div>
             <Searchbar getQuery={(q)=>setQuery(q)}/>
             <GithubUser user={user}/>
+            <UserContrib user={user}></UserContrib>
         </div>
     )
 }
