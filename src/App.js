@@ -8,12 +8,12 @@ function App() {
   return (
    <div className="wrapper">
       <BrowserRouter>
-     <nav>
-       <ul>
-         <li><Link to="/">Home</Link></li>
-         <li><Link to="/Competitivecoding">Competitive Coding</Link></li>
-         <li><Link to="/OpenSource">Open Source</Link></li>
-         <li><Link to="/Blogg" >Blogs</Link></li>
+     <nav className="collapse navbar-collapse">
+       <ul className="navbar-nav">
+         <li className="nav-item"><Link to="/">Home</Link></li>
+         <li className="nav-item"><Link to="/Competitivecoding">Competitive Coding</Link></li>
+         <li className="nav-item"><Link to="/OpenSource">Open Source</Link></li>
+         <li className="nav-item"><Link to="/Blogg" >Blogs</Link></li>
        </ul>
       </nav>
      
