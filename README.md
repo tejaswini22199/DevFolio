@@ -1,5 +1,9 @@
 # Description
 Devprofile is a website where a user's Programming(Competetive coding), Open Source Contributions and technical blogs can be viewed. It can be helpful for recruiters when they have the users usernames and they can check if the person suits their need or not.
+## GIF of the website
+
+![Screen+Recording+2021-01-13+at+01 36 07 46+PM](https://user-images.githubusercontent.com/43006347/104423644-5ab8f380-55a4-11eb-9348-8089e5f80c45.gif)
+
 ## Some of the Screenshots of the project
 ![homepage](https://user-images.githubusercontent.com/43006347/103473118-f5524f00-4dba-11eb-8893-bbe73de046ac.JPG)
 ![blogs](https://user-images.githubusercontent.com/43006347/103473119-f6837c00-4dba-11eb-8c13-4b5eb48d475e.JPG)
